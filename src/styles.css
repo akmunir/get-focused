@@ -19,3 +19,8 @@
         purple 200deg */
     )
 }
+
+.hand {
+    transform-origin: bottom center;
+    transform: rotate(var(--degrees));
+}
